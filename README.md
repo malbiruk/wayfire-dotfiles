@@ -1,1 +1,1 @@
-![[screenshots.webp]]
+![screenshots](screenshots.webp)
